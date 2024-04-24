@@ -1,0 +1,25 @@
+{
+  "name": "shangh-token",
+  "version": "1.0.2",
+  "description": "code scan",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shangyoung/shangh-token-1.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "yxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shangyoung/shangh-token-1/issues"
+  },
+  "homepage": "https://github.com/shangyoung/shangh-token-1#readme",
+  "dependencies": {
+    "tea-datetime-generator": "^1.0.1"
+  }
+}
